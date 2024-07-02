@@ -6,6 +6,7 @@ GameTrail is an online store for selling games. This project uses Django for the
 
 - **Django**: Web framework for backend development.
 - **Docker**: Platform for containerizing applications.
+- **PostgreSQL**: Open-source object-relational database system.
 - **Poetry**: Tool for dependency management and packaging Python projects.
 - **Docker Compose**: Tool for orchestrating multi-container Docker applications.
 - **Makefile**: Automation of frequently used commands.
